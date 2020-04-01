@@ -1,0 +1,28 @@
+.app {
+  font-size: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: 60px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  animation: blinkin 1s linear infinite;
+}
+
+@keyframes blinkin {
+  0% {
+    color: black
+  }
+
+  50% {
+    color: rgba(0, 0, 0, 0);
+  }
+
+  100% {
+    color: black;
+  }
+}

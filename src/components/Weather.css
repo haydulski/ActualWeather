@@ -1,0 +1,21 @@
+div {
+    font-size: 30px;
+}
+
+.weather h1 {
+    font-size: 30px;
+    margin-bottom: 40px;
+    animation: none;
+}
+
+.weather {
+    margin-bottom: 60px;
+    background-color: rgb(95, 158, 160);
+    height: auto;
+    width: 30vw;
+    border-radius: 4%;
+}
+
+.weather div:last-child {
+    margin-bottom: 50px;
+}
