@@ -1,13 +1,13 @@
 {
-  "main.css": "/haydulski/ActualWeather/static/css/main.d8e19001.chunk.css",
-  "main.js": "/haydulski/ActualWeather/static/js/main.3f68c156.chunk.js",
-  "main.js.map": "/haydulski/ActualWeather/static/js/main.3f68c156.chunk.js.map",
-  "runtime~main.js": "/haydulski/ActualWeather/static/js/runtime~main.637ba654.js",
-  "runtime~main.js.map": "/haydulski/ActualWeather/static/js/runtime~main.637ba654.js.map",
-  "static/js/2.b67fbdca.chunk.js": "/haydulski/ActualWeather/static/js/2.b67fbdca.chunk.js",
-  "static/js/2.b67fbdca.chunk.js.map": "/haydulski/ActualWeather/static/js/2.b67fbdca.chunk.js.map",
-  "index.html": "/haydulski/ActualWeather/index.html",
-  "precache-manifest.6fda0ff6e088c74493e6d2b2aaad1467.js": "/haydulski/ActualWeather/precache-manifest.6fda0ff6e088c74493e6d2b2aaad1467.js",
-  "service-worker.js": "/haydulski/ActualWeather/service-worker.js",
-  "static/css/main.d8e19001.chunk.css.map": "/haydulski/ActualWeather/static/css/main.d8e19001.chunk.css.map"
+  "main.css": "/ActualWeather/static/css/main.d8e19001.chunk.css",
+  "main.js": "/ActualWeather/static/js/main.677ea002.chunk.js",
+  "main.js.map": "/ActualWeather/static/js/main.677ea002.chunk.js.map",
+  "runtime~main.js": "/ActualWeather/static/js/runtime~main.c9d8a21b.js",
+  "runtime~main.js.map": "/ActualWeather/static/js/runtime~main.c9d8a21b.js.map",
+  "static/js/2.b67fbdca.chunk.js": "/ActualWeather/static/js/2.b67fbdca.chunk.js",
+  "static/js/2.b67fbdca.chunk.js.map": "/ActualWeather/static/js/2.b67fbdca.chunk.js.map",
+  "index.html": "/ActualWeather/index.html",
+  "precache-manifest.7a82dc5ce27a2ce80a43a16f984fb9dd.js": "/ActualWeather/precache-manifest.7a82dc5ce27a2ce80a43a16f984fb9dd.js",
+  "service-worker.js": "/ActualWeather/service-worker.js",
+  "static/css/main.d8e19001.chunk.css.map": "/ActualWeather/static/css/main.d8e19001.chunk.css.map"
 }

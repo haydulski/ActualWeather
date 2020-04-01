@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/haydulski/ActualWeather/precache-manifest.6fda0ff6e088c74493e6d2b2aaad1467.js"
+  "/ActualWeather/precache-manifest.7a82dc5ce27a2ce80a43a16f984fb9dd.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/haydulski/ActualWeather/index.html", {
+workbox.routing.registerNavigationRoute("/ActualWeather/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
