@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0f9d0d8f687d327675ea",
+    "revision": "555c73b007ebf5876db4",
     "url": "/ActualWeather/static/css/main.d8e19001.chunk.css"
   },
   {
-    "revision": "0f9d0d8f687d327675ea",
-    "url": "/ActualWeather/static/js/main.677ea002.chunk.js"
+    "revision": "555c73b007ebf5876db4",
+    "url": "/ActualWeather/static/js/main.98b300a3.chunk.js"
   },
   {
     "revision": "6e80cf04dd1e0ae16358",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/ActualWeather/static/js/2.b67fbdca.chunk.js"
   },
   {
-    "revision": "039c82dcf3c773ad13a36908badab3bd",
+    "revision": "cf5baabc43fc325eb0ec2394cf38c015",
     "url": "/ActualWeather/index.html"
   }
 ];
