@@ -1,5 +1,5 @@
 {
-  "main.css": "/ActualWeather/static/css/main.d8e19001.chunk.css",
+  "main.css": "/ActualWeather/static/css/main.460bf221.chunk.css",
   "main.js": "/ActualWeather/static/js/main.98b300a3.chunk.js",
   "main.js.map": "/ActualWeather/static/js/main.98b300a3.chunk.js.map",
   "runtime~main.js": "/ActualWeather/static/js/runtime~main.c9d8a21b.js",
@@ -7,7 +7,7 @@
   "static/js/2.b67fbdca.chunk.js": "/ActualWeather/static/js/2.b67fbdca.chunk.js",
   "static/js/2.b67fbdca.chunk.js.map": "/ActualWeather/static/js/2.b67fbdca.chunk.js.map",
   "index.html": "/ActualWeather/index.html",
-  "precache-manifest.14f4a347f492874a454e90d455115688.js": "/ActualWeather/precache-manifest.14f4a347f492874a454e90d455115688.js",
+  "precache-manifest.877e07f68e2673fdcabe3adecbbe8f77.js": "/ActualWeather/precache-manifest.877e07f68e2673fdcabe3adecbbe8f77.js",
   "service-worker.js": "/ActualWeather/service-worker.js",
-  "static/css/main.d8e19001.chunk.css.map": "/ActualWeather/static/css/main.d8e19001.chunk.css.map"
+  "static/css/main.460bf221.chunk.css.map": "/ActualWeather/static/css/main.460bf221.chunk.css.map"
 }
